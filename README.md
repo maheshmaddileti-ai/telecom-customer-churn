@@ -84,6 +84,7 @@ Offering better pricing on 2-year contracts could significantly reduce churn rat
 ```
 telecom-customer-churn/
 │
+├── Customer churn.ipynb      # Full coded google colab file
 ├── customer_churn.py         # Full analysis, visualization, and modeling code
 ├── customer_churn.csv        # Dataset
 └── README.md                 # Project documentation
